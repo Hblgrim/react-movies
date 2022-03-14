@@ -16,7 +16,9 @@
 
 ## Installation :
 ```
+          git clone https://github.com/Hblgrim/react-movies.git
+
+          cd react-movies
+
           npm install
 ```
-
-
